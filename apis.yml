@@ -27,6 +27,8 @@ common:
     url: https://github.com/jsdelivr/data.jsdelivr.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.jsdelivr.com/blog/rss
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
