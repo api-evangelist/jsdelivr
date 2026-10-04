@@ -39,7 +39,6 @@ apis:
   - name: jsDelivr
     description: "Package info and download stats on jsDelivr CDN"
     humanURL: https://github.com/jsdelivr/data.jsdelivr.com
-    baseURL: https://github.com/jsdelivr/data.jsdelivr.com
     tags:
       - Development
     properties:
